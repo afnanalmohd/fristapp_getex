@@ -1,6 +1,7 @@
 # First Application in GetX by using GetBuilde.
-The Counter in first application in GetX in Flutter . just increment and decrement the number.
-used in this app GetBuilde.
+
+The Counter in sample application in GetX in Flutter .the idea of  this app is increment and decrement the number.
+ threr are three verison of this code ,the Frist with Geblilder ,GetX and Obs. the main idea  of this app is  show the different in writing code.
 
 ## Photo:
 <img width="200" alt="Screenshot 1444-06-23 at 4 38 39 PM" src="https://user-images.githubusercontent.com/53023171/212691457-0cba2984-7d00-4938-a0c6-be4e855f9ba2.png">
